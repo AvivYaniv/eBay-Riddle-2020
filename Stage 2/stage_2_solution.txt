@@ -1,0 +1,5 @@
+1. Open 'image_distorted.jpg' in Hex-editor
+2. Copy block after 'REMOVE_ME', starting at 0x18 0x8b which is a header of gzip file
+3. Unzip 'compressed.zip' to 'uncompressed'
+4. Paste 'uncompressed' instead of 'REMOVE_ME' block and remove the part after it
+5. Viola! the result is 'image_restored.jpg'
