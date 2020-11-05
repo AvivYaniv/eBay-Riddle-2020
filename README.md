@@ -6,6 +6,10 @@
     <img src="https://github.com/AvivYaniv/Ebay-Riddle-2020/blob/master/logo/eBayLogo.png" width="30%"/>
 <p/>
 
+1st Solver of Ebay Riddle 2020
+
+Success Rate: Less than 0.00192307692 ([25 out of more than 13,000](https://github.com/AvivYaniv/eBay-Riddle-2020/blob/master/Success%20Rate/success_rate.jpeg))
+
 Solutions to all stages attached
 
 ## Stage 1
