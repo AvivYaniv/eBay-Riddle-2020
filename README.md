@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Ebay-Riddle-2020.svg)](http://hits.dwyl.com/AvivYaniv/Ebay-Riddle-2020)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAvivYaniv%2FeBay-Riddle-2020)
 
 # Ebay-Riddle-2020
 
