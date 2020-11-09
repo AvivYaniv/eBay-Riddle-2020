@@ -1,0 +1,260 @@
+## BEGIN FILE ###
+#
+# allow-all
+# DR
+#
+# The use of robots or other automated means to access the eBay site
+# without the express permission of eBay is strictly prohibited.
+# Notwithstanding the foregoing, eBay may permit automated access to
+# access certain eBay pages but soley for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at <https://www.robotstxt.org/orig.html> is strictly
+# prohibited.
+#
+# v9_COM_Oct_2020_and_test
+### DIRECTIVES ###
+
+User-agent: *
+Disallow: /*_kw
+Disallow: /*?maspect
+Disallow: /*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /*redirect=mobile
+Disallow: /*rt%3Dnc
+Disallow: /*rt=nc
+Allow: /b/*?*_mwBanner
+Disallow: /b/*?*_nkw
+Disallow: /b/*?*&
+Disallow: /b/*?*|
+Disallow: /b/*%EF
+Disallow: /b/*LH_
+Disallow: /b/*_sop=
+Disallow: /b/Test-Category
+Disallow: /b/eBay-Use-Only
+Disallow: /b/eBay-Test-Only
+Disallow: /b/LP-Parent
+Disallow: /b/LL-Child
+Disallow: /b/eBay-User-Tools
+Disallow: /b/Test-Auctions
+Disallow: /b/Attributes
+Disallow: /b/*DO-NOT-BID
+Disallow: /b/*/11233/*_pgn=
+Disallow: /b/*/176983/*_pgn=
+Disallow: /b/*/176984/*_pgn=
+Disallow: /b/*/176985/*_pgn=
+Disallow: /b/*/618/*_pgn=
+Disallow: /b/*/52473/*_pgn=
+Disallow: /b/*/31608/*_pgn=
+Disallow: /b/*/46497/*_pgn=
+Disallow: /b/*/46501/*_pgn=
+Disallow: /b/*/31610/*_pgn=
+Disallow: /b/*/45104/*_pgn=
+Disallow: /bo/
+Disallow: /brw/
+Disallow: /clp/
+Disallow: /clt/store/
+Disallow: /csc/
+Disallow: /cta/
+Disallow: /ctg/
+Disallow: /ctm/
+Disallow: /dsc/
+Disallow: /e/*?
+Disallow: /edc/
+Disallow: /experience/fic
+Disallow: /feed/
+Disallow: /fdbk/
+Disallow: /gh/useracquisition
+Disallow: /gsr/
+Disallow: /gwc/
+Disallow: /hcp/
+Disallow: /heute/
+Disallow: /ico/
+Disallow: /itc/
+Disallow: /itm/*action=BESTOFFER
+Disallow: /itm/*boolp=
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /itm/*.jpg
+Disallow: /itm/*/%7B%7B
+Disallow: /itm/addToCart
+Disallow: /itm/watch/
+Disallow: /lit/
+Disallow: /lst/ng/
+Disallow: /lvx/
+Disallow: /mbf/
+Disallow: /mla/
+Disallow: /mlt/
+Disallow: /myb/
+Disallow: /myebay/
+Disallow: /mys/
+Disallow: /nap/
+Disallow: /npk/
+Disallow: /p/surveyopen
+Disallow: /p/*surveyopen
+Disallow: /prp/
+Disallow: /rcm/
+Allow: /sch/ebayadvsearch
+Allow: /sch/allcategories/
+Allow: /sch/*_ul
+Allow: /sch/*_fosrp
+Allow: /sch/*_trksid
+Allow: /sch/i.html?_nkw=
+Disallow: /sch/i.html?*_nkw=*&
+Disallow: /sch/
+Allow: /signin/$
+Disallow: /signin/
+Disallow: /sl/*bn_*?
+Disallow: /sl/node
+Disallow: /sl/*SellLikeItem
+Disallow: /sl/*wnstart
+Disallow: /sme/
+Disallow: /smevi/
+Disallow: /soc/
+Disallow: /str/*_sacat
+Disallow: /talk/
+Disallow: /tickets/
+Disallow: /today/
+Disallow: /trylater/
+Allow: /urw/*/product-reviews/
+Disallow: /urw/
+Disallow: /usr/*/all-follows
+Disallow: /usr/*/followers
+Disallow: /vlabl
+Disallow: /vsp/
+Disallow: /ws/
+
+User-agent: bingbot
+Disallow: /*_kw
+Disallow: /*?maspect
+Disallow: /*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /*redirect=mobile
+Disallow: /*rt%3Dnc
+Disallow: /*rt=nc
+Allow: /b/*?*_mwBanner
+Disallow: /b/*?*_nkw
+Disallow: /b/*?*&
+Disallow: /b/*?*|
+Disallow: /b/*%EF
+Disallow: /b/*LH_
+Disallow: /b/*_sop=
+Disallow: /b/Test-Category
+Disallow: /b/eBay-Use-Only
+Disallow: /b/eBay-Test-Only
+Disallow: /b/LP-Parent
+Disallow: /b/LL-Child
+Disallow: /b/eBay-User-Tools
+Disallow: /b/Test-Auctions
+Disallow: /b/Attributes
+Disallow: /b/*DO-NOT-BID
+Disallow: /b/*/11233/*_pgn=
+Disallow: /b/*/176983/*_pgn=
+Disallow: /b/*/176984/*_pgn=
+Disallow: /b/*/176985/*_pgn=
+Disallow: /b/*/618/*_pgn=
+Disallow: /b/*/52473/*_pgn=
+Disallow: /b/*/31608/*_pgn=
+Disallow: /b/*/46497/*_pgn=
+Disallow: /b/*/46501/*_pgn=
+Disallow: /b/*/31610/*_pgn=
+Disallow: /b/*/45104/*_pgn=
+Disallow: /bo/
+Disallow: /brw/
+Disallow: /clp/
+Disallow: /clt/store/
+Disallow: /csc/
+Disallow: /cta/
+Disallow: /ctg/
+Disallow: /ctm/
+Disallow: /dsc/
+Disallow: /e/*?
+Disallow: /edc/
+Disallow: /experience/fic
+Disallow: /fdbk/
+Disallow: /feed/
+Disallow: /gh/useracquisition
+Disallow: /gsr/
+Disallow: /gwc/
+Disallow: /hcp/
+Disallow: /heute/
+Disallow: /ico/
+Disallow: /itc/
+Disallow: /itm/*action=BESTOFFER
+Disallow: /itm/*boolp=
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /itm/*.jpg
+Disallow: /itm/*/%7B%7B
+Disallow: /itm/addToCart
+Disallow: /itm/watch/
+Disallow: /lit/
+Disallow: /lst/ng/
+Disallow: /lvx/
+Disallow: /mbf/
+Disallow: /mla/
+Disallow: /mlt/
+Disallow: /myb/
+Disallow: /myebay/
+Disallow: /mys/
+Disallow: /nap/
+Disallow: /npk/
+Disallow: /p/surveyopen
+Disallow: /p/*surveyopen
+Disallow: /prp/
+Disallow: /rcm/
+Allow: /sch/ebayadvsearch
+Allow: /sch/allcategories/
+Allow: /sch/*_ul
+Allow: /sch/*_fosrp
+Allow: /sch/*_trksid
+Allow: /sch/i.html*_sop=12
+Allow: /sch/i.html?_nkw=
+Disallow: /sch/i.html*_sop=12*&
+Disallow: /sch/i.html?_nkw=*&
+Disallow: /sch/
+Allow: /signin/$
+Disallow: /signin/
+Disallow: /sl/*bn_*?
+Disallow: /sl/node
+Disallow: /sl/*SellLikeItem
+Disallow: /sl/*wnstart
+Disallow: /sme/
+Disallow: /smevi/
+Disallow: /soc/
+Disallow: /str/*_sacat
+Disallow: /talk/
+Disallow: /tickets/
+Disallow: /today/
+Disallow: /trylater/
+Allow: /urw/*/product-reviews/
+Disallow: /urw/
+Disallow: /usr/*/all-follows
+Disallow: /usr/*/followers
+Disallow: /vlabl
+Disallow: /vsp/
+Disallow: /ws/
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: AdsBot-AdIdxBot
+Disallow:
+
+
+# PRP Sitemaps
+Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
+
+# CLP Sitemaps
+Sitemap: https://www.ebay.com/lst/CLP-0-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
+
+# BROWSE Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE-0-index.xml
+
+### END FILE ###
