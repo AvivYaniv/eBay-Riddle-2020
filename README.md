@@ -1,4 +1,4 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAvivYaniv%2FeBay-Riddle-2020)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.eBay-Riddle-2020.issue.1) <br/>
 
 # Ebay-Riddle-2020
 
