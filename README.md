@@ -8,6 +8,8 @@
 
 1st Solver of Ebay Riddle 2020
 
+[Detailed explanations for all soltuions is avilabe on my Meidum blog](https://medium.com/@AvivYaniv/a-walkthrough-guide-to-ebay-riddle-2020-bcbdb6fc88b6).
+
 Success Rate: Less than 0.00192307692 ([25 out of more than 13,000](https://github.com/AvivYaniv/eBay-Riddle-2020/blob/master/Success%20Rate/success_rate.jpeg))
 
 Solutions to all stages attached
