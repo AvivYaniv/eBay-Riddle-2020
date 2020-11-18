@@ -10,7 +10,7 @@
 
 [Detailed explanations for all soltuions is avilabe on my Meidum blog](https://medium.com/@AvivYaniv/a-walkthrough-guide-to-ebay-riddle-2020-bcbdb6fc88b6).
 
-Success Rate: Around 0.0029333333333333 ([44 out of more than 15,000](https://github.com/AvivYaniv/eBay-Riddle-2020/blob/main/First%20Solver/first_solver.png))
+Success Rate: Around <b>0.</b>3% ([44 out of more than 15,000](https://github.com/AvivYaniv/eBay-Riddle-2020/blob/main/First%20Solver/first_solver.png))
 
 Solutions code to all stages attached
 
