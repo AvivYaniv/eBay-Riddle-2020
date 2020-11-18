@@ -10,9 +10,13 @@
 
 [Detailed explanations for all soltuions is avilabe on my Meidum blog](https://medium.com/@AvivYaniv/a-walkthrough-guide-to-ebay-riddle-2020-bcbdb6fc88b6).
 
-Success Rate: Less than 0.00192307692 ([25 out of more than 13,000](https://github.com/AvivYaniv/eBay-Riddle-2020/blob/master/Success%20Rate/success_rate.jpeg))
+Success Rate: Around 0.0029333333333333 ([44 out of more than 15,000](https://github.com/AvivYaniv/eBay-Riddle-2020/blob/main/First%20Solver/first_solver.png))
 
 Solutions code to all stages attached
+
+<p align="center">
+    <img src="https://github.com/AvivYaniv/eBay-Riddle-2020/blob/main/First%20Solver/first_solver.png" width="70%"/>
+<p/>
 
 ## Stage 1
 
